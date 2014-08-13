@@ -22,6 +22,3 @@ if output == target:
 else:
     print 'failure'
 
-
-
-
